@@ -1,8 +1,8 @@
 # twitch_prediction_script
 
-Rename your folder "Prototyp" to you wished channel-name on twitch. 
+Rename your folder 'Prototyp' to your desired channel name on Twitch.
 
-You need to save your cookies from twitch into "twitch_cookies.csv" to login.
+You need to save your cookies from Twitch into 'twitch_cookies.csv' to log in
 
 How to: 
 
