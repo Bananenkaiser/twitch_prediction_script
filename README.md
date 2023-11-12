@@ -2,7 +2,7 @@
 
 Rename your folder "Prototyp" to you wished channel-name on twitch. 
 
-You need to save your cookies from twtich into "twitch_cookies.csv" to login.
+You need to save your cookies from twitch into "twitch_cookies.csv" to login.
 
 How to: 
 
